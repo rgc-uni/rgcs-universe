@@ -1,5 +1,5 @@
 ---
-title: "Welcome to RGC's Universe!.js"
+title: "Welcome to RGC's Universe!"
 excerpt: "The most reliable middleman service for Roblox cross-trading."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
