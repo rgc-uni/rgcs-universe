@@ -1,10 +1,13 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Reliable Middleman Service"
+excerpt: "Trusted Middleman Services: Highly vetted, active, and honest staff members ready to secure your trades.
+100% Scam-Free Environment: A dedicated space built to eliminate cross-trading risks.
+Vibrant Trading Hub: Active channels to find buyers, sellers, and trade offers for all your favorite Roblox games.
+Giveaways & Events: Frequent Robux, in-game items, and Discord Nitro giveaways for our community.
+Vouch System: Transparency is key! Check out our extensive vouch channels to see our successful trade history."
 coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
 author:
-  name: JJ Kasper
+  name: qqiare
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
