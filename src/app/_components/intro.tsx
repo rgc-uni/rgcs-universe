@@ -8,6 +8,7 @@ export function Intro() {
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
        Most reliable Middleman Service for Roblox
+        </h4>
     </section>
   );
 }
