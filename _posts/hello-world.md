@@ -1,18 +1,22 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Welcome to RGC's Universe!.js"
+excerpt: "The most reliable middleman service for Roblox cross-trading."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Tim Neutkens
+  name: made by qqiare
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Looking for a safe and trusted place to trade your Roblox items, accounts, and currency? You found it! RGC's Universe is the ultimate Roblox trading hub designed to keep you and your digital items completely secure.Our professional Middleman (MM) services ensure that you never have to worry about getting scammed again. Whether you are trading Adopt Me pets, Murder Mystery 2 weapons, Blox Fruits, or Robux, we have got your back!
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+- Trusted Middleman Services: Highly vetted, active, and honest staff members ready to secure your trades.
+- 100% Scam-Free Environment: A dedicated space built to eliminate cross-trading risks.
+- Vibrant Trading Hub: Active channels to find buyers, sellers, and trade offers for all your favorite Roblox games.
+- Giveaways & Events: Frequent Robux, in-game items, and Discord Nitro giveaways for our community.
+- Vouch System: Transparency is key! Check out our extensive vouch channels to see our successful trade history.
 
 ## Lorem Ipsum
 
